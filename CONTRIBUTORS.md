@@ -3,4 +3,4 @@
 Thanks to all the amazing contributors! 🎉
 
 - Sahil Kumar (@SahilKumarIN)
-- Your Name (@your-username)
+- Rishiraj Singh Rathore (@flickerbot)
