@@ -27,11 +27,11 @@ class Solution {
     }
 }
 
-public class Main {
-    public static void main(String[] args) {
-        Solution sol = new Solution();
-        String s = "MCMXCIV"; 
-        int result = sol.romanToInt(s);
-        System.out.println("Integer value: " + result);
-    }
+public class roman_numerals_to_int {
+  public static void main(String[] args) {
+    Solution sol = new Solution();
+    String s = "MCMXCIV";
+    int result = sol.romanToInt(s);
+    System.out.println("Integer value: " + result);
+  }
 }
