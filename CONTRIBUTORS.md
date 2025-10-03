@@ -6,3 +6,4 @@ Thanks to all the amazing contributors! 🎉
 - Rishiraj Singh Rathore (@flickerbot)
 - Megha Vaswani (@megha-66)
 - Anshul Kunwar (@anshul407)
+- Rohan Kumar Jha (@rohanjha-rj)
