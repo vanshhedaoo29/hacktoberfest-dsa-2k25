@@ -25,7 +25,7 @@ class Solution {
     }
 }
 
-public class Main {
+public class count_num_of_substrings {
     public static void main(String[] args) {
         String s = "pqpqs";
         int k = 2;
