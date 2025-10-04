@@ -1,3 +1,5 @@
+package problems.strings;
+
 class Main {
   public static void main(String[] args) {
 
