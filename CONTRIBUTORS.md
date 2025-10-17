@@ -11,5 +11,5 @@ Thanks to all the amazing contributors! 🎉
 - Rohan Kumar Jha (@rohanjha-rj)
 - Diksha Roy (@Diksha0904)
 - SOURAV KUMAR (@sourav349)
-- GitHub Copilot (Added Binary Search Tree Implementation)
+- Anukalp Pandey (@anukalp2804)
 
